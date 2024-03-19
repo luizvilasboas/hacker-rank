@@ -4,7 +4,7 @@ public class Solution {
     public static String[] splitByUppercase(String word) {
         return word.split("(?=[A-Z])");
     }
-    
+
     public static String joinWordSpaceToUppercase(String word) {
         String[] words = word.split(" ");
 
@@ -35,7 +35,7 @@ public class Solution {
                 camelCaseResult = camelCaseResult.toLowerCase();
             } else if (lineSegment[0].equals("C")) {
                 camelCaseResult = joinWordSpaceToUppercase(camelCaseResult);
-                
+
                 if (lineSegment[1].equals("M")) {
                     camelCaseResult = camelCaseResult + "()";
                 }
