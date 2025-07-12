@@ -8,4 +8,4 @@ If you're interested in contributing to this project, feel free to open a merge 
 
 ## License
 
-This project is available under the [MIT License](https://gitlab.com/olooeez/hacker-rank/-/blob/main/LICENSE). For more information, please see the LICENSE file.
+This project is available under the [MIT License](https://github.com/luizvilasboas/hacker-rank/blob/main/LICENSE). For more information, please see the LICENSE file.
