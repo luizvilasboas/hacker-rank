@@ -1,11 +1,19 @@
 # hacker-rank
 
-Repository to store my answers from [HackerRank](https://www.hackerrank.com).
+> A repository to store my solutions for challenges from the [HackerRank](https://www.hackerrank.com) platform.
+
+## About the Project
+
+This repository serves as a personal archive of my solutions to various programming challenges from HackerRank. The purpose is to track my progress and maintain a collection of the problems I have solved.
+
+## Usage
+
+The solutions are organized within the repository. You can browse the folders to find the solution for a specific problem.
 
 ## Contributing
 
-If you're interested in contributing to this project, feel free to open a merge request. We welcome all forms of collaboration!
+While this is a personal solutions repository, suggestions for improvements or alternative solutions are welcome. Please open an issue to discuss any changes.
 
 ## License
 
-This project is available under the [MIT License](https://github.com/luizvilasboas/hacker-rank/blob/main/LICENSE). For more information, please see the LICENSE file.
+This project is licensed under the MIT License. See the `LICENSE` file for details.
